@@ -1,0 +1,30 @@
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\bin\Debug\1111111111133333333333333.exe.config
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\bin\Debug\1111111111133333333333333.exe
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\bin\Debug\1111111111133333333333333.pdb
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\obj\Debug\_1111111111133333333333333.Form1.resources
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\obj\Debug\_1111111111133333333333333.Properties.Resources.resources
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\obj\Debug\Citizen.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\obj\Debug\Citizen.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\obj\Debug\1111111111133333333333333.exe
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\obj\Debug\1111111111133333333333333.pdb
+C:\Users\305-11\Desktop\forrat\1111111111133333333333333 — копия\obj\Debug\Citizen.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\bin\Debug\1111111111133333333333333.exe.config
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\bin\Debug\1111111111133333333333333.exe
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\bin\Debug\1111111111133333333333333.pdb
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\obj\Debug\Citizen.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\obj\Debug\_1111111111133333333333333.Form1.resources
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\obj\Debug\_1111111111133333333333333.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\obj\Debug\Citizen.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\obj\Debug\Citizen.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\obj\Debug\1111111111133333333333333.exe
+C:\Users\HUAWEI\Desktop\1111111111133333333333333 — копия\obj\Debug\1111111111133333333333333.pdb
+C:\Users\HUAWEI\Desktop\prakt13\bin\Debug\1111111111133333333333333.exe.config
+C:\Users\HUAWEI\Desktop\prakt13\bin\Debug\1111111111133333333333333.exe
+C:\Users\HUAWEI\Desktop\prakt13\bin\Debug\1111111111133333333333333.pdb
+C:\Users\HUAWEI\Desktop\prakt13\obj\Debug\Citizen.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\prakt13\obj\Debug\_1111111111133333333333333.Form1.resources
+C:\Users\HUAWEI\Desktop\prakt13\obj\Debug\_1111111111133333333333333.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\prakt13\obj\Debug\Citizen.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\prakt13\obj\Debug\Citizen.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\prakt13\obj\Debug\1111111111133333333333333.exe
+C:\Users\HUAWEI\Desktop\prakt13\obj\Debug\1111111111133333333333333.pdb
